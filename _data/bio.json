@@ -6,11 +6,11 @@
     "email": "molly@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.S. in Computer Science & Mathematics at the Purdue University, Fort Wayne. I expect to graduate in Spring, 2023.",
+    "location": { "address": "", "postalCode": "", "city": "Fort Wyne", "countryCode": "USA", "region": "Indiana" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "mmaluhia", "url": "https://shravankb301.github.io/Portfolio/" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/shravan-komarabattini/" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
